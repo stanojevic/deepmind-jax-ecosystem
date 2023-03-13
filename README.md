@@ -64,6 +64,10 @@ developed at DeepMind:
       <th>TensorFlow to JAX conversion</th>
       <td><a href="https://github.com/deepmind/tf2jax">tf2jax</a></td>
     </tr>
+    <tr>
+      <th>Loopy Belief Propagation</th>
+      <td><a href="https://github.com/deepmind/pgmax">PGMax</a></td>
+    </tr>
   </tbody>
 </table>
 
