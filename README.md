@@ -68,6 +68,10 @@ developed at DeepMind:
       <th>Loopy Belief Propagation</th>
       <td><a href="https://github.com/deepmind/pgmax">PGMax</a></td>
     </tr>
+    <tr>
+      <th>Structured Probability Distributions</th>
+      <td><a href="https://github.com/deepmind/synjax">SynJax</a></td>
+    </tr>
   </tbody>
 </table>
 
